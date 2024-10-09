@@ -7,3 +7,12 @@
 
 ### Knowledge
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cypress" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
