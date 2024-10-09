@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Yana
 
-🔭 Delving into algorithms (Grokking Algorithms is my current read)
+🔭 I'm delving into algorithms (Grokking Algorithms is my current read)
 
-🤔 Searching for help with finding a new job opportunity
+🤔 I'm searching for help with finding a new job opportunity
 
-👯‍♀️ Looking to collaborate on projects involving big data
+👯‍♀️ I'm looking to collaborate on projects driven by good intentions
 
 📫 How to reach me: yn-pvlv@yandex.ru
 
