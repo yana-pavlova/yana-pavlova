@@ -6,6 +6,4 @@
 📫 How to reach me: yn-pvlv@yandex.ru
 
 ### Knowledge
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
