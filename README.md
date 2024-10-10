@@ -1,10 +1,14 @@
 ## Hi there 👋, I'm Yana
 
-🔭 I'm delving into algorithms (Grokking Algorithms is my current read)
+💻 I'm interested in creating good UI that people would like to use
 
-🤔 I'm searching for help with finding a new job opportunity. Here's my CV: <a href='https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd34c190039ed1f316433507078'>https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd34c190039ed1f316433507078</a>
+🤔 I'm searching for a new job opportunity. Here's my CV at Headhunter: <a href='https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd34c190039ed1f316433507078'>https://shorturl.at/EVx2y</a>
+
+👨🏻‍💻 I'd love to get a chance to learn from frontend gurus
 
 👯‍♀️ I'm looking to collaborate on projects driven by good intentions
+
+🔭 At the moment, I'm delving into algorithms (Grokking Algorithms is my current read)
 
 ### Knowledge
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
