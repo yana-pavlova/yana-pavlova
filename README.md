@@ -2,7 +2,7 @@
 
 🔭 I'm delving into algorithms (Grokking Algorithms is my current read)
 
-🤔 I'm searching for help with finding a new job opportunity
+🤔 I'm searching for help with finding a new job opportunity. Here's my CV: <a href='https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd34c190039ed1f316433507078'>https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd34c190039ed1f316433507078</a>
 
 👯‍♀️ I'm looking to collaborate on projects driven by good intentions
 
