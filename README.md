@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yana
 
-💻 I'm interested in creating good UI that people would like to use
+💻 I'm interested in creating UI that people would love to use
 
 🤔 I'm searching for a new job opportunity. Here's my CV at Headhunter: <a href='https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd34c190039ed1f316433507078'>https://shorturl.at/EVx2y</a>
 
