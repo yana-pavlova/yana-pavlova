@@ -6,8 +6,6 @@
 
 👯‍♀️ I'm looking to collaborate on projects driven by good intentions
 
-📫 How to reach me: yn-pvlv@yandex.ru
-
 ### Knowledge
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
 <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /></a>
@@ -19,3 +17,9 @@
 <a href="https://figma.com"><img height="32" width="32" src="https://cdn.simpleicons.org/figma" /></a>
 <a href="https://docs.cypress.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/cypress" /></a>
 <a href="https://jestjs.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/jest" /></a>
+
+### Contacts
+📫 How to reach me: yn-pvlv@yandex.ru
+
+<a href="https://t.me/ynpvlv"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26A5E4" /></a>
+<a href="https://wa.me/qr/AY5DZJ3WL474E1"><img height="32" width="32" src="https://cdn.simpleicons.org/whatsapp/25D366" /></a>
