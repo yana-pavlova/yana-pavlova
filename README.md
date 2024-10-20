@@ -2,7 +2,7 @@
 
 💻 I'm interested in creating UI that people would love to use
 
-🤔 I'm searching for a new job opportunity. Here's my CV at Headhunter: <a href='https://yoshkar-ola.hh.ru/resume/bcf49f7fff0dd42c190039ed1f316433507078'>https://shorturl.at/EVx2y</a>
+🤔 I'm searching for a new job opportunity. <a href='https://project10963329.tilda.ws/'>Here's</a> my CV
 
 👨🏻‍💻 I'd love to get a chance to learn from frontend gurus
 
