@@ -2,13 +2,13 @@
 
 💻 I'm interested in creating UI that people would love to use
 
-🤔 I'm searching for a new job opportunity. <a href='https://project10963329.tilda.ws/'>Here's</a> my CV
+🤔 I'm searching for a new job opportunity
 
 👨🏻‍💻 I'd love to get a chance to learn from frontend gurus
 
 👯‍♀️ I'm looking to collaborate on projects driven by good intentions
 
-🔭 At the moment, I'm delving into algorithms (Grokking Algorithms is my current read)
+📖 My current read is Clean Code by Robert C. Martin
 
 ### Knowledge
 
