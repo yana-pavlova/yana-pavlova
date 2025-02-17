@@ -17,9 +17,9 @@
 |<a href="https://www.typescriptlang.org/"><img height="42" width="42" src="https://cdn.simpleicons.org/typescript" /></a> TypeScript|<a href="https://webpack.js.org/"><img height="42" width="42" src="https://cdn.simpleicons.org/webpack" /></a> Webpack|<a href="https://react.dev/"><img height="42" width="42" src="https://cdn.simpleicons.org/react" /></a> React|
 |<a href="https://redux.js.org/"><img height="42" width="42" src="https://cdn.simpleicons.org/redux" /></a> Redux|<a href="https://ui.shadcn.com/"><img height="42" width="42" src="https://cdn.simpleicons.org/shadcnui" /></a> ShadCN|<a href="https://git-scm.com/"><img height="42" width="42" src="https://cdn.simpleicons.org/git" /></a> Git|
 |<a href="https://figma.com"><img height="42" width="42" src="https://cdn.simpleicons.org/figma" /></a> Figma|<a href="https://docs.cypress.io/"><img height="42" width="42" src="https://cdn.simpleicons.org/cypress" /></a> Cypress|<a href="https://jestjs.io/"><img height="42" width="42" src="https://cdn.simpleicons.org/jest" /></a> Jest|<a href="https://eslint.org/"><img height="42" width="42" src="https://cdn.simpleicons.org/eslint" /></a> ESLint|
-|<a href="[https://figma.com](https://tailwindcss.com/)"><img height="42" width="42" src="https://cdn.simpleicons.org/tailwindcss" /></a> Tailwind CSS|||
+|<a href="https://tailwindcss.com/"><img height="42" width="42" src="https://cdn.simpleicons.org/tailwindcss" /></a> Tailwind CSS|<a href="https://storybook.js.org/"><img height="42" width="42" src="https://cdn.simpleicons.org/storybook" /></a> Storybook||
 
-<img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yana-pavlova&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yana-pavlova&layout=compact" />
 
 ### Contacts
 📫 How to reach me: yn-pvlv@yandex.ru
