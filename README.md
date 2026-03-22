@@ -2,7 +2,7 @@
 
 💻 I'm interested in creating UI that people would love to use
 
-🤔 I'm open for a new job opportunity. <a href="https://docs.google.com/document/d/1Fy0HFnnPFvI2szbW-ZQKMaEku8c-u3Sv4656fFyVn44/edit?usp=sharing">Here's</a> my CV
+🤔 I'm open for a new job opportunity
 
 👨🏻‍💻 I'd love to get a chance to learn from frontend gurus
 
